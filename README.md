@@ -74,7 +74,7 @@ This stage reclaims space from over-weighted, low-value items and increases tota
 | ------- | ----- | --------- | ---------- | -------- | ------ | -------- |
 | 1       | 20    | 2         | 2          | 1065     | <1 ms  | Yes      |
 | 2       | 100   | 10        | 10         | ~39.5 k  | ~20 ms | Yes      |
-| 3       | 5000  | 100       | 100        | ~1.845 M | ~3 s   | Yes      |
+| 3       | 5000  | 100       | 100        | ~1.841 M | ~7 s   | Yes      |
 
 ---
 ### Intuition
